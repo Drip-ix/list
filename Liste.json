@@ -94,7 +94,7 @@
       "Name": "Rafcamora",
       "Kategorie": "Deutschrap/Rap",
       "Kosten": "15 V-Punkte",
-      "BildURL": "https://images.bravo.de/raf-camora-ohne-bonez-und-187-waere-ich-nicht-mehr-hierjpg,id=f52eda48,b=bravo,w=1100,rm=sk.jpeg"
+      "BildURL": "https://th.bing.com/th/id/R.2a9930fba11910d676d7c79b06db06eb?rik=NALISgmXCXy%2bwA&pid=ImgRaw&r=0"
     },
     {
       "Name": "Sundiego",
@@ -185,6 +185,96 @@
       "Kategorie": "Deutschrap/Rap",
       "Kosten": "15 V-Punkte",
       "BildURL": "https://c.saavncdn.com/artists/Arjun_-Singer-_20180416111419_500x500.jpg"
+    },
+    {
+        "Name": "Montanablack",
+        "Kategorie": "Streamer/Deutsch",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://th.bing.com/th/id/OIP.usHCET-JHelty2kh1ig6VwHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+        "Name": "Bonez",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://th.bing.com/th/id/OIP.O5T1ewnaVvom3UkWRvSpoAHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+        "Name": "Samra",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://lastfm.freetls.fastly.net/i/u/ar0/8e776c4cd05c9ccd1dbf61fe471b9817.jpg"
+    },
+    {
+        "Name": "Angelamerkel",
+        "Kategorie": "Deutsche Politikerin",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://th.bing.com/th/id/OIP.cxgaulD_dpz0AQCj60uCPQHaKj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "Name": "Apored",
+        "Kategorie": "Youtuber/Deutsch",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://water.koeln/wp-content/uploads/2019/12/apored_bild_new_portfolio_portrait_1200x1200.jpg"
+    },
+    {
+        "Name": "Capitalbra",
+        "Kategorie": "",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://th.bing.com/th/id/R.735732e1936e75b2230675285f322617?rik=fCaWpDYaFY%2bz0A&pid=ImgRaw&r=0"
+    },
+    {
+        "Name": "Tlow",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://images.genius.com/8c1611182e7357def659b3cac75ce706.907x907x1.png"
+    },
+    {
+        "Name": "Apache",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://images.bravo.de/die-10-erfolgreichsten-deutschen-rapper-apache-207jpg,id=04dcf071,b=bravo,w=1100,rm=sk.jpeg"
+    },
+    {
+        "Name": "Egonkowalski",
+        "Kategorie": "Ü18 Darsteller",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://c8.alamy.com/compde/2t3x0bj/egon-kowalski-auf-der-26-venus-berlin-2023-in-den-messehallen-unter-dem-funkturm-berlin-26102023-2t3x0bj.jpg"
+    },
+    {
+        "Name": "Kenan",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://i.scdn.co/image/ab6761610000e5eb3f5db18350bb4a3322103e8f"
+    },
+    {
+        "Name": "Reezy",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://www.laut.de/Reezy/Alben/Mr.-Misunderstood-121050/reezy-mr-misunderstood-226120.png"
+    },
+    {
+        "Name": "Skandal",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://i.scdn.co/image/ab67616100005174050d58e8a2fad0edd2dbcf30"
+    },
+    {
+        "Name": "Ayliva",
+        "Kategorie": "Musikerin/Deutsch",
+        "Kosten": "15 V-Punkte",
+        "BildURL": ""
+    },
+    {
+        "Name": "Bobbyvandamme",
+        "Kategorie": "Deutschrap/Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://note-store.de/upload/resize_cache/iblock/220/9d41atsyv5449myue31px58ettet5jod/325_380_2/Bobby-Vandamme.png"
+    },
+    {
+        "Name": "Drake",
+        "Kategorie": "Rap",
+        "Kosten": "15 V-Punkte",
+        "BildURL": "https://image.gala.de/23902412/t/9N/v3/w960/r0.6667/-/07--raeumt-die-ki-zwei-preise-ab----3-2---spoton-article-1051913.jpg"
     }
   ]
 }
